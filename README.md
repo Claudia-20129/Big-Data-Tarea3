@@ -30,7 +30,7 @@ El script realiza las siguientes operaciones:
      spark-submit tarea3.py
    
 
-   4. **Código Fuente
+   4. ## Código Fuente
   
    # Importamos las librerías necesarias
     from pyspark.sql import SparkSession, functions as F
